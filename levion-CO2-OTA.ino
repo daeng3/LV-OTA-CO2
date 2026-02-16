@@ -18,7 +18,7 @@ const int currentVersion = 1;
 
 // URL GitHub untuk Auto-Update
 // Ganti USERNAME dan REPO dengan milik Anda!
-const String repoRaw = "https://raw.githubusercontent.com/daeng3/LV-TR-OTA-CO2/refs/heads/main/";
+const String repoRaw = "https://raw.githubusercontent.com/daeng3/LV-OTA-CO2/refs/heads/main/";
 const String firmwareURL = repoRaw + "levion-CO2-OTA.ino.bin"; 
 const String versionURL  = repoRaw + "version.txt";        
 
